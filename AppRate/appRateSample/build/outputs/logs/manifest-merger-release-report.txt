@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:5-15:19
+MERGED from [AppRate:appRateLib:unspecified] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\AppRate\appRateLib\unspecified\AndroidManifest.xml:11:5-53
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:18-50
+	android:theme
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:51-95
+activity#com.tjeannin.apprate.sample.MainActivity
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:8:19-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [AppRate:appRateLib:unspecified] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\AppRate\appRateLib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml
