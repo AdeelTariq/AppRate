@@ -3,7 +3,6 @@ package com.tjeannin.apprate;
 import java.lang.Thread.UncaughtExceptionHandler;
 
 import android.app.Activity;
-import android.app.AlertDialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -16,6 +15,7 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.net.Uri;
+import android.support.v7.app.AlertDialog;
 import android.text.format.DateUtils;
 import android.util.Log;
 import android.widget.Toast;
