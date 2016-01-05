@@ -1,0 +1,180 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AppRate:
+* .gradle\
+* .gradle\2.8\
+* .gradle\2.8\taskArtifacts\
+* .gradle\2.8\taskArtifacts\cache.properties
+* .gradle\2.8\taskArtifacts\cache.properties.lock
+* .gradle\2.8\taskArtifacts\fileHashes.bin
+* .gradle\2.8\taskArtifacts\fileSnapshots.bin
+* .gradle\2.8\taskArtifacts\outputFileStates.bin
+* .gradle\2.8\taskArtifacts\taskArtifacts.bin
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\gradle.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\runConfigurations.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* AppRate.iml
+* appRateSample\
+* appRateSample\appRateSample.iml
+* appRate\
+* appRate\appRate.iml
+* app\
+* app\app.iml
+* app\build.gradle
+* app\build\
+* app\build\generated\
+* app\build\generated\source\
+* app\build\generated\source\buildConfig\
+* app\build\generated\source\buildConfig\androidTest\
+* app\build\generated\source\buildConfig\androidTest\debug\
+* app\build\generated\source\buildConfig\androidTest\debug\com\
+* app\build\generated\source\buildConfig\androidTest\debug\com\tjeannin\
+* app\build\generated\source\buildConfig\androidTest\debug\com\tjeannin\apprate\
+* app\build\generated\source\buildConfig\androidTest\debug\com\tjeannin\apprate\test\
+* app\build\generated\source\buildConfig\androidTest\debug\com\tjeannin\apprate\test\BuildConfig.java
+* app\build\generated\source\buildConfig\debug\
+* app\build\generated\source\buildConfig\debug\com\
+* app\build\generated\source\buildConfig\debug\com\tjeannin\
+* app\build\generated\source\buildConfig\debug\com\tjeannin\apprate\
+* app\build\generated\source\buildConfig\debug\com\tjeannin\apprate\BuildConfig.java
+* app\build\generated\source\r\
+* app\build\generated\source\r\androidTest\
+* app\build\generated\source\r\androidTest\debug\
+* app\build\generated\source\r\androidTest\debug\com\
+* app\build\generated\source\r\androidTest\debug\com\tjeannin\
+* app\build\generated\source\r\androidTest\debug\com\tjeannin\apprate\
+* app\build\generated\source\r\androidTest\debug\com\tjeannin\apprate\R.java
+* app\build\generated\source\r\androidTest\debug\com\tjeannin\apprate\test\
+* app\build\generated\source\r\androidTest\debug\com\tjeannin\apprate\test\R.java
+* app\build\generated\source\r\debug\
+* app\build\generated\source\r\debug\com\
+* app\build\generated\source\r\debug\com\tjeannin\
+* app\build\generated\source\r\debug\com\tjeannin\apprate\
+* app\build\generated\source\r\debug\com\tjeannin\apprate\R.java
+* app\build\intermediates\
+* app\build\intermediates\blame\
+* app\build\intermediates\blame\res\
+* app\build\intermediates\blame\res\androidTest\
+* app\build\intermediates\blame\res\androidTest\debug\
+* app\build\intermediates\blame\res\androidTest\debug\multi\
+* app\build\intermediates\blame\res\androidTest\debug\multi\values.json
+* app\build\intermediates\bundles\
+* app\build\intermediates\bundles\debug\
+* app\build\intermediates\bundles\debug\AndroidManifest.xml
+* app\build\intermediates\bundles\debug\R.txt
+* app\build\intermediates\bundles\debug\aapt\
+* app\build\intermediates\bundles\debug\aapt\AndroidManifest.xml
+* app\build\intermediates\bundles\debug\classes.jar
+* app\build\intermediates\bundles\debug\res\
+* app\build\intermediates\bundles\debug\res\values\
+* app\build\intermediates\bundles\debug\res\values\values.xml
+* app\build\intermediates\classes\
+* app\build\intermediates\classes\debug\
+* app\build\intermediates\classes\debug\com\
+* app\build\intermediates\classes\debug\com\tjeannin\
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\AppRate.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\BuildConfig.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\ExceptionHandler.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\PrefsContract.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\R$attr.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\R$string.class
+* app\build\intermediates\classes\debug\com\tjeannin\apprate\R.class
+* app\build\intermediates\incremental\
+* app\build\intermediates\incremental\compileDebugAidl\
+* app\build\intermediates\incremental\compileDebugAidl\dependency.store
+* app\build\intermediates\incremental\compileDebugAndroidTestAidl\
+* app\build\intermediates\incremental\compileDebugAndroidTestAidl\dependency.store
+* app\build\intermediates\incremental\mergeDebugAndroidTestAssets\
+* app\build\intermediates\incremental\mergeDebugAndroidTestAssets\merger.xml
+* app\build\intermediates\incremental\mergeDebugAndroidTestResources\
+* app\build\intermediates\incremental\mergeDebugAndroidTestResources\merger.xml
+* app\build\intermediates\incremental\mergeDebugAssets\
+* app\build\intermediates\incremental\mergeDebugAssets\merger.xml
+* app\build\intermediates\incremental\mergeDebugJniLibFolders\
+* app\build\intermediates\incremental\mergeDebugJniLibFolders\merger.xml
+* app\build\intermediates\incremental\packageDebugResources\
+* app\build\intermediates\incremental\packageDebugResources\merger.xml
+* app\build\intermediates\manifest\
+* app\build\intermediates\manifest\androidTest\
+* app\build\intermediates\manifest\androidTest\debug\
+* app\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml
+* app\build\intermediates\res\
+* app\build\intermediates\res\merged\
+* app\build\intermediates\res\merged\androidTest\
+* app\build\intermediates\res\merged\androidTest\debug\
+* app\build\intermediates\res\merged\androidTest\debug\values\
+* app\build\intermediates\res\merged\androidTest\debug\values\values.xml
+* app\build\intermediates\res\resources-debug-androidTest.ap_
+* app\build\intermediates\symbols\
+* app\build\intermediates\symbols\androidTest\
+* app\build\intermediates\symbols\androidTest\debug\
+* app\build\intermediates\symbols\androidTest\debug\R.txt
+* app\build\outputs\
+* app\build\outputs\aar\
+* app\build\outputs\aar\app-debug.aar
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\tjeannin\
+* app\src\main\java\com\tjeannin\apprate\
+* app\src\main\java\com\tjeannin\apprate\AppRate.java
+* app\src\main\java\com\tjeannin\apprate\ExceptionHandler.java
+* app\src\main\java\com\tjeannin\apprate\PrefsContract.java
+* app\src\main\res\
+* app\src\main\res\values\
+* app\src\main\res\values\strings.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* import-summary.txt
+* settings.gradle
+From AppRateSample:
+* .gitignore
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => appRateSample\src\main\AndroidManifest.xml
+* res\ => appRateSample\src\main\res\
+* src\ => appRateSample\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

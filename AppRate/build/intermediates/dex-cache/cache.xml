@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\AppRate\appRateLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8f32460f067b589a3fabff826efb3019d5767a7">
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\AppRate-appRateLib-unspecified_6c36bdfd9b839440e06cbeea8854b09b1eac743e.jar" />
+    </item>
+
+</items>
