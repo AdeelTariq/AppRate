@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\release\internal_impl-23.1.1_bc6e2d572ddd93db26e1a80fd1ba7e77798edd38.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_6a28f606b4712f22729f45422e6f708dee040605.jar" />
+    </item>
+    <item
+        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.github.AdeelTariq\AppRate\2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c41b9df43265c072045814cbce1d5f7b10f51e7">
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\com.github.AdeelTariq-AppRate-2.0_352bfda2a53e46f3857946759a20cc7309eca8b3.jar" />
     </item>
     <item
         jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_6e0b51465378589f7f7f2b5c8be5d3a27db55ea8.jar" />
-    </item>
-    <item
-        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\AppRate\appRateLib\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="da604478e70fbaf5971761791108cc020ee9884f">
-        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\AppRate-appRateLib-unspecified_6c36bdfd9b839440e06cbeea8854b09b1eac743e.jar" />
-    </item>
-    <item
-        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_6a28f606b4712f22729f45422e6f708dee040605.jar" />
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_6e0b51465378589f7f7f2b5c8be5d3a27db55ea8.jar" />
     </item>
     <item
         jar="E:\Development\adt\adtBundle\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\release\support-annotations-23.1.1_805eec2ababde2b11ac46f67e57fc1b80fa727bc.jar" />
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_805eec2ababde2b11ac46f67e57fc1b80fa727bc.jar" />
+    </item>
+    <item
+        jar="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Development\Libraries\AppRate\AppRate\appRateSample\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_bc6e2d572ddd93db26e1a80fd1ba7e77798edd38.jar" />
     </item>
 
 </items>

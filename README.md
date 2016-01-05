@@ -10,11 +10,23 @@ AppRate
 How to install and use
 ----------------------
 
-1. Put the AppRate [jar] in your `libs` folder or add AppRate as a library project.
+1. Add the following code to your project build.gradle file.
 
-[jar]: AppRateDownloads
+	allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
 
-2. Use AppRate as follows in your `MAIN` activity: 
+2. Add the following to your module build.gradle file.
+
+	dependencies {
+	        compile 'com.github.AdeelTariq:AppRate:2.0'
+	}
+
+
+3. Use AppRate as follows in your `MAIN` activity: 
 
 ```java
 new AppRate(this).init();
