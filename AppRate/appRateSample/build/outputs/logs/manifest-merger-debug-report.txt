@@ -25,7 +25,7 @@ MERGED from [com.android.support:support-v4:23.1.1] E:\Development\Libraries\App
 	android:label
 		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:18-50
 	android:theme
-		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:51-95
+		ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:7:51-89
 activity#com.tjeannin.apprate.sample.MainActivity
 ADDED from E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml:8:9-14:20
 	android:name

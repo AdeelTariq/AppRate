@@ -55,7 +55,7 @@ To fix this warning, decide whether your application should support backup, and 
 If not set to false, and if targeting API 23 or later, lint will also warn that you should set `android:fullBackupContent` to configure auto backup."
         url="https://developer.android.com/preview/backup/index.html"
         urls="https://developer.android.com/preview/backup/index.html,http://developer.android.com/reference/android/R.attr.html#allowBackup"
-        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat.Light&quot;>"
+        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat&quot;>"
         errorLine2="    ^"
         quickfix="studio,adt">
         <location
@@ -84,7 +84,7 @@ To fix this warning, decide whether your application should support backup, and 
 If not set to false, and if targeting API 23 or later, lint will also warn that you should set `android:fullBackupContent` to configure auto backup."
         url="https://developer.android.com/preview/backup/index.html"
         urls="https://developer.android.com/preview/backup/index.html,http://developer.android.com/reference/android/R.attr.html#allowBackup"
-        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat.Light&quot;>"
+        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat&quot;>"
         errorLine2="    ^"
         quickfix="studio,adt">
         <location
@@ -103,7 +103,7 @@ If not set to false, and if targeting API 23 or later, lint will also warn that 
         explanation="You should set an icon for the application as whole because there is no default. This attribute must be set as a reference to a drawable resource containing the image (for example `@drawable/icon`)."
         url="http://developer.android.com/tools/publishing/preparing.html#publishing-configure"
         urls="http://developer.android.com/tools/publishing/preparing.html#publishing-configure"
-        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat.Light&quot;>"
+        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat&quot;>"
         errorLine2="    ^"
         quickfix="studio">
         <location
@@ -122,7 +122,7 @@ If not set to false, and if targeting API 23 or later, lint will also warn that 
         explanation="Adds deep links to get your app into the Google index, to get installs and traffic to your app from Google Search."
         url="https://g.co/AppIndexing/AndroidStudio"
         urls="https://g.co/AppIndexing/AndroidStudio"
-        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat.Light&quot;>"
+        errorLine1="    &lt;application android:label=&quot;@string/app_name&quot; android:theme=&quot;@style/Theme.AppCompat&quot;>"
         errorLine2="    ^">
         <location
             file="E:\Development\Libraries\AppRate\AppRate\appRateSample\src\main\AndroidManifest.xml"

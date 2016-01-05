@@ -5,6 +5,8 @@ AppRate
 
 * AppRate shows a customizable rate dialog according to your chosen settings.
 
+* This fork of the library uses AppCompat AlertDialog instead of the usual app.AlertDialog.
+
 How to install and use
 ----------------------
 
@@ -70,8 +72,8 @@ new AppRate(this)
 Screenshots
 -----------
 
-![Screenshot 1](AppRateScreenshots/screenshot_1.png "Screenshot 1")
-![Screenshot 2](AppRateScreenshots/screenshot_2.png "Screenshot 2")
+![Screenshot 1](AppRateScreenshots/device-2016-01-05-143904.png "Screenshot 1")
+![Screenshot 2](AppRateScreenshots/device-2016-01-05-144324.png "Screenshot 2")
 
 License
 -------
